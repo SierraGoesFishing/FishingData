@@ -1,4 +1,3 @@
 cd $PSScriptRoot
 
 git pull
-
